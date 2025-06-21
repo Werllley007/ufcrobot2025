@@ -26,6 +26,10 @@ diff_cont:
     wheel_separation: 0.332
     wheel_radius: 0.034
 
+    # ✅ Correção aplicada:
+    left_wheel_radius_multiplier: 1.000
+    right_wheel_radius_multiplier: 0.96  # diminuiu 0.4% o raio da direita
+
     use_stamped_vel: false
 
     # open_loop: false    
